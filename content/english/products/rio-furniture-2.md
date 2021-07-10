@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Earphones
-description: Bluetooth Earphones
+category: 이어폰
+description: 블루투스 이어폰
 draft: false
 image: images/portfolio/mx700.png
 information:

@@ -1,26 +1,18 @@
 ---
-bg_image: images/feature-bg.jpg
-category: Battery
-description: this is meta description
+bg_image: images/feature-bg3.jpg
+title: Macbing Store
+category: 
+- 이어폰
+- 넥밴드 
+description: 맥빙 제품 구매하기
 draft: false
-image: images/portfolio/work5.jpg
+image: images/portfolio/store.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: Rio Furniture
+- info: https://smartstore.naver.com/macbing
+  label: 맥빙 스토어 링크
 ---
 
-## Behance Website Redesign
+## 맥빙 스토어에 오신 걸 환영합니다.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

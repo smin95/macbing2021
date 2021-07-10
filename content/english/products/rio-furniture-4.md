@@ -1,9 +1,9 @@
 ---
-bg_image: images/feature-bg.jpg
-category: Neckband 
-description: this is meta description
+bg_image: images/feature-bg3.jpg
+category: 넥밴드
+description: 블루투스 넥밴드 
 draft: false
-image: images/portfolio/work4.jpg
+image: images/portfolio/mk900.jpg
 information:
 - info: Jannie Kelonsky
   label: Client
@@ -17,7 +17,7 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: MK900
 ---
 
 ## Behance Website Redesign
