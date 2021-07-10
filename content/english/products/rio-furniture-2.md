@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
 category: Earphones
-description: this is meta description
+description: Bluetooth Earphones
 draft: false
-image: images/portfolio/work2.jpg
+image: images/portfolio/mx700.png
 information:
 - info: Jannie Kelonsky
   label: Client
@@ -17,7 +17,7 @@ information:
   label: Skills
 - info: Jannie Kelonsky
   label: Client
-title: Rio Furniture
+title: MX700
 ---
 
 ## Behance Website Redesign

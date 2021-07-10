@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Video
+category: Neckband
 description: this is meta description
 draft: false
 image: images/portfolio/work3.jpg

@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Illustration
+category: Battery
 description: this is meta description
 draft: false
 image: images/portfolio/work5.jpg
