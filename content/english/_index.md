@@ -27,57 +27,18 @@ cta:
   bg_image: images/call-to-action-bg.jpg
   button:
     enable: true
-    label: Tell Us Your Story
+    label: 문의하기 
     link: contact
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: 궁금한 사항이 있으시면 이메일로 문의해보세요.
   enable: true
-  title: We design delightful digital experiences.
-funfacts:
-  description: '''Far far away, behind the word mountains, far from the countries
-    Vokalia and Consonantia, <br> there live the blind texts. Separated they live
-    in Bookmarksgrove right at the coast of the Semantics'''
-  enable: true
-  funfact_item:
-  - count: "99"
-    icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-  - count: "45"
-    icon: ion-ios-glasses-outline
-    name: Article Written
-  - count: "125"
-    icon: ion-ios-compose-outline
-    name: Projects Completed
-  - count: "200"
-    icon: ion-ios-timer-outline
-    name: Combined Projects
-  testimonial_slider:
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-    designation: CEO-Themefisher
-    image: images/clients/avater-1.jpg
-    name: Raymond Roy
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-    designation: CEO-Themefisher
-    image: images/clients/avater-1.jpg
-    name: Randi Renin
-  - content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-    designation: CEO-Themefisher
-    image: images/clients/avater-3.jpg
-    name: Rose Rio
-  title: Fun Facts About Us
+  title: Contact us
+
 menu:
   main:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/feature-bg.jpg
+  bg_image: images/feature-bg2.jpg
   button:
     enable: true
     label: View Works

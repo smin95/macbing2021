@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg4.jpg
-description: Bluetooth earphones, neckbands, etc.
+description: 블루투스 이어폰, 넥밴드, etc.
 draft: false
 menu:
   main:

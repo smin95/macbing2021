@@ -7,5 +7,5 @@ menu:
   main:
     name: Contact
     weight: 6
-title: Drop Us A Note
+title: Contact Us
 ---
