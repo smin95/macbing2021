@@ -1,0 +1,111 @@
+baseURL: http://examplesite.org
+title: Airspace | Creative Agency Hugo Template
+theme: airspace-hugo
+paginate: '4'
+summaryLength: '30'
+disableLanguages: []
+disqusShortname: ''
+googleAnalytics: ''
+outputs:
+  home: HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  tableOfContents:
+    endLevel: 6
+    ordered: no
+    startLevel: 2
+params:
+  author: Themefisher
+  contact:
+    address_descriptors: yes
+    email: 	rudghks1226@naver.com
+    form:
+      action: '#'
+      enable: yes
+      success_image: images/paper-plane.svg
+      use_netlify: yes
+    location: "\r\n**주식회사 맥빙**  \r\n경기도 고양시  \r\n일산동구 정발산로
+        \r\n웨스턴타워 4동 410호\r\n"
+    phone: 031-901-7260
+  cookies:
+    enable: no
+    expire_days: 2
+  counter:
+    enable: yes
+    username: ''
+  description: This is meta description
+  gmap:
+    enable: yes
+   # gmap_api: AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU
+    map_latitude: '37.65587095924456' 
+    map_longitude: '126.77190355211447'
+    map_marker: images/marker.png
+  image: images/logo.png
+  logo: images/logo.png
+  logo_width: 150px
+  plugins:
+    css:
+      - attributes: media='screen'
+        link: plugins/bootstrap/css/bootstrap.min.css
+      - attributes: ''
+        link: plugins/ionicons/css/ionicons.min.css
+      - attributes: ''
+        link: plugins/magnific-popup/magnific-popup.min.css
+      - attributes: ''
+        link: plugins/slick/slick.css
+    js:
+      - attributes: ''
+        link: plugins/jquery/jquery.min.js
+      - attributes: ''
+        link: plugins/bootstrap/js/bootstrap.min.js
+      - attributes: ''
+        link: plugins/slick/slick.min.js
+      - attributes: ''
+        link: plugins/magnific-popup/magnific-popup.min.js
+      - attributes: ''
+        link: plugins/shuffle/shuffle.min.js
+      - attributes: defer
+        link: plugins/google-map/gmap.js
+  preloader:
+    enable: yes
+    preloader: ''
+  social:
+    - icon: ion-social-facebook-outline
+      link: 'https://www.facebook.com/MACBINGOFFICIAL'
+    - icon: ion-social-instagram-outline
+      link: '#'
+  widgets:
+    sidebar:
+      - recent_posts
+      - taxonomy_category
+      - taxonomy_tags
+languages:
+  en:
+    contentDir: content/english
+    copyright: Copyright &copy; 2021 주식회사 맥빙
+    languageCode: en
+    languageName: English
+    menu:
+      footer:
+        - URL: about
+          name: About
+          weight: 1
+        - URL: products
+          name: Products
+          weight: 2
+        - URL: service
+          name: Service
+          weight: 3
+        - URL: faq
+          name: FAQ
+          weight: 4
+        - URL: contact
+          name: Contact
+          weight: 5
+      main:
+        - hasChildren: no
+          name: More
+          weight: 5
+    weight: 1
