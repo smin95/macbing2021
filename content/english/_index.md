@@ -10,19 +10,18 @@ about:
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   enable: true
-  image: images/wrapper-img.png
+  image: images/wrapper-img1.jpg
   title: About Us
 banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   button:
     enable: true
-    label: Discover Our Project
-    link: project
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+    label: 맥빙 제품들 보기
+    link: products
+  content: 양쪽 스테리어 통화 가능, 압도적인 가격대비 성능, <br/> 뛰어난 휴대성, 꺼내는 순간 자동 블루투스 연결/페어링, 폭팔적 프리미엄 사운드.
   enable: true
-  title: A Digital Marketing <br/> & Design Agency
+  title: 맥빙 | 블루투스 이어폰 <br/> & 넥밴드
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
@@ -37,22 +36,17 @@ menu:
   main:
     name: Home
     weight: 1
+    
 portfolio:
-  bg_image: images/feature-bg.jpg
+  bg_image: images/mcgill2d.png
   button:
-    enable: true
+    enable: false
     label: View Our Products
     link: products
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
-  enable: true
+  content: 
+  enable: false
   title: WE BELIEVE IN GREAT IDEAS
 service:
   enable: false
 ---
+

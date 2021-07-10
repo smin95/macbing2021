@@ -1,5 +1,5 @@
 baseURL: https://elegant-mccarthy-5e607c.netlify.app/
-title: Airspace | Creative Agency Hugo Template
+title: 맥빙 | 블루투스 이어폰, 넥밴드
 theme: airspace-hugo
 paginate: '4'
 summaryLength: '30'
@@ -26,9 +26,9 @@ params:
       enable: no
       success_image: images/paper-plane.svg
       use_netlify: yes
-    location: "\r\n**주식회사 맥빙**  \r\n경기도 고양시  \r\n일산동구 정발산로
-        \r\n웨스턴타워 4동 410호\r\n"
-    phone: 031-901-7260
+    location: "\r\n**주식회사 맥빙**  \r\n경기도 고양시 일산동구 정발산로 24 (장항동, 웨스턴돔1)
+         4동 410호 (우 : 10403)"
+    phone: 070-4907-2125
   cookies:
     enable: no
     expire_days: 2
@@ -84,7 +84,8 @@ params:
 languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 주식회사 맥빙
+    copyright: Copyright &copy; 2021 주식회사 맥빙 | 대표자 - 민경환 | 고객센터 - 070-4907-2125 | <br/> 사업자 등록번호 -	3918800582 | 통신판매업번호 - 제 2017 - 고양일산동 - 0424 호
+
     languageCode: en
     languageName: English
     menu:
