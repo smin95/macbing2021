@@ -83,7 +83,7 @@ params:
       - taxonomy_tags
 languages:
   en:
-    contentDir: content/italian
+    contentDir: content/english
     copyright: Copyright &copy; 2021 주식회사 맥빙
     languageCode: en
     languageName: English
