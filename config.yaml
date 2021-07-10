@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org
+baseURL: https://elegant-mccarthy-5e607c.netlify.app/
 title: Airspace | Creative Agency Hugo Template
 theme: airspace-hugo
 paginate: '4'
