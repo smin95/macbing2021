@@ -54,5 +54,5 @@ portfolio:
   enable: true
   title: WE BELIEVE IN GREAT IDEAS
 service:
-  enable: true
+  enable: false
 ---
