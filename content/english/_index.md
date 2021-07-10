@@ -38,7 +38,7 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/feature-bg2.jpg
+  bg_image: images/feature-bg.jpg
   button:
     enable: true
     label: View Our Products
