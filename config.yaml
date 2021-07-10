@@ -84,7 +84,7 @@ params:
 languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 주식회사 맥빙 | 대표자 - 민경환 | 고객센터 - 070-4907-2125 | <br/> 사업자 등록번호 -	3918800582 | 통신판매업번호 - 제 2017 - 고양일산동 - 0424 호
+    copyright: Copyright &copy; 2021 주식회사 맥빙 | 대표자 - 민경환 | 고객센터 - 070-4907-2125 <br/> 사업자 등록번호 -	3918800582 | 통신판매업번호 - 제 2017 - 고양일산동 - 0424 호
 
     languageCode: en
     languageName: English
