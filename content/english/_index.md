@@ -41,8 +41,8 @@ portfolio:
   bg_image: images/feature-bg2.jpg
   button:
     enable: true
-    label: View Works
-    link: project
+    label: View Our Products
+    link: products
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
