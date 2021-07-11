@@ -1,67 +1,90 @@
 ---
-author: John Doe
-bg_image: images/feature-bg.jpg
+author: 쓴종이
+bg_image: images/bp1.1.jpg
 categories:
 - Company News
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+date: "2020-02-09"
+description: 네이버 블로그 후기 포스트
 draft: false
-image: images/blog/blog-post-1.jpg
+image: images/blog/bp1.1.jpg
 tags:
-- Advice
-- Technology
-title: How To Wear Bright Shoes
+- MX730
+- 이어폰
+title: 무선 블루투스 이어폰 추천 맥빙 MX 730 가성비 훌륭
 type: post
 ---
 
+출처: https://blog.naver.com/tmdwhdgml/221802529417. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+Note: This post has been slightly modified from the original post above.  
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+무선 전자기기 제품이 대세인 만큼, 블루투스 이어폰도 더욱 편리해진 사용감으로 그 수요가 급격히 늘었다. 에누리닷컴에서도 지난 1월 무선 이어폰 제품 매출이 139% 늘었다고 하니 요즘 지하철이나 길거리에서 무선이어폰만 보이는 것이 그 증표이겠다. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+**블루투스 이어폰 맥빙 MX730**
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+맥빙 MX730 블루투스 이어폰은 가성비 좋은 이어폰으로 10mm 다이나믹 드라이버 유닛으로 풍부한 음질과 폭넓은 음역대로 묵직한 중저음 사운드를 즐길 수 있으며, 가벼운 무게로 착용감 또한 우수하다.</p>
 
+> 매일 출퇴근 시간이 3시간 정도라 매일같이 드라마, 영화, 유튜브 등을 보며 무선 이어폰을 사용하는데 맥빙 MX730은 가벼운 착용감에 뛰어난 음질을 선사해 필자의 귀를 즐겁게 해주고 있다.
 
-* hello
-* hello
-* hello
-* hello
-* hello
+맥빙 블루투스 이어폰은 프리미엄 칩셋을 탑재해 끊기지 않은 신호 전달로 선명한 사운드를 전달하며, 고가의 블루투스 이어폰에만 탑재되었던 멀티캐스팅이 적용되어 좌우 이어폰이 완적 독립 동작한다. 마이크는 입과 더욱 가까이 밀착되도록 제작되어 통화 음성 전달이 더욱 선명하다. </p>
 
-1. hello
-2. hello
-3. hello
-4. hello
+![](/images/blog/bp1.2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+전체 구성품은 충전 케이스와 이어폰 본체, 충전 케이블, 이어캡 세트이다.
+
+![](/images/blog/bp1.3.jpg)
+
+이어캡은 1개는 기본으로 꼽혀 있고, 좀 더 작은 사이즈와 큰 사이즈가 여분으로 구성되어 있어 사용자의 귀 모양에 따라 교체해 사용할 수 있다.
+
+![](/images/blog/bp1.4.jpg)
+
+충전기는 마이크로 5Pin 케이블이 적용되었다.
+
+![](/images/blog/bp1.5.jpg)
+
+이어폰은 3.9g의 가벼운 무게로 가벼운 착용감을 자랑한다. 미니멀한 사이즈에 가벼운 무게로 제작되었으며, 인체 공학적 디자인은 귀에 딱 맞는 착용감을 선사해준다.
+
+![](/images/blog/bp1.6.jpg)
+
+작고 가벼운 충전 케이스는 뛰어난 휴대성을 자랑한다. 한번 충전으로 최대 5시간 동안 음악 감상을 할 수 있으며, 충전기를 사용하면 최대 30시간 사용, 대기시간은 180시간이나 된다.
+
+![](/images/blog/bp1.7.jpg)
+
+이어폰을 충전기에 분리하면 전원이 자동으로 켜지면서 스마트폰과 자동으로 빠르게 페어링 된다. 빠른 음악 감상이 가능하며, 이어폰을 충전 케이스에 넣으면 자동으로 분리 및 전원이 꺼져 편리하다.
+
+**출퇴근 귀를 즐겁게 해 줄 블루투스 이어폰**
+
+대게 대중교통을 이용해서 출퇴근을 하다 보니, 스마트폰으로 넷플릭스 미드나 영화를 시청하거나, 유튜브 동영상을 보는 경우들이 많다.
+
+![](/images/blog/bp1.8.jpg)
+
+충전기 케이스에서 꺼내자마자 스마트폰과 바로 자동 페어링이 이루어져 편리했다. 연결이 되면 한국어로 보이스 안내 음성이 나온다. 보이스 안내 음성 지원은 전원 온/오프, 블루투스 연결/종료, 전화 알림, 배터리 알림 등 다양하다.
+
+![](/images/blog/bp1.9.jpg)
+
+![](/images/blog/bp1.10.jpg)
+
+이어폰은 스마트 터치 방식으로 편리하게 제어할 수 있었다.
+1. 이어폰을 2초간 누를 경우:
+* 오른쪽 이어폰: 다음 곡 재생
+* 왼쪽 이어폰: 이전 곡 재생
+* 전화 올 경우 왼쪽 또는 오른쪽: 이어폰 전화 수신 시 거절
+
+2. 이어폰을 더블클릭할 경우:
+* 오른쪽 이어폰: 음악 정지 또는 플레이
+* 왼쪽 이어폰: 시리, 빅스비 음성지원 및 종료
+* 전화 수신 시 왼쪽 또는 오른쪽 이어폰: 전화받기
+
+![](/images/blog/bp1.11.jpg)
+
+맥빙 MX730 블루투스 이어폰은 멀티캐스팅 싱크로 기술이 적용되어 각각의 이어폰이 스마트폰과 개별 연결된다. 예전 블루투스 이어폰은 스마트폰과 메인 이어폰이 연결되고, 메인 이어폰과 서브 이어폰이 연결되기 때문에 간혹 싱크가 안 맞거나 하나의 이어폰으로 작동이 안 되는 경우들이 있는데, 이럴 걱정이 없다. 한쪽 이어폰만으로도 음악, 동영상 시청이 가능하며, 주변 소리도 함께 듣고 싶을 때 유용하게 활용할 수도 있다.
+
+![](/images/blog/bp1.12.jpg)
+
+충전 케이스의 고정홀 가까이에 이어폰을 가져가면 자석이 부착되어 있어 안정적으로 탈부착되어 편리하다.
+
+![](/images/blog/bp1.13.jpg)
+
+주로 9호선과 3호선을 이용하는데, 블루투스 이어폰 맥빙 MX730은 FPC 안테나를 내장하여 사람이 많은 곳에서도 끊김 및 지연 없이 안정적으로 이용할 수 있었다. 또한 최신 블루투스 5.0으로 선명한 음악 감상과 끊김 없는 통화음질을 경험할 수 있었다.
+
+스마트폰 무선 블루투스 이어폰 맥빙 MX730은 가성비가 뛰어난 제품이라 부담 없이 사용하기 좋았다.
