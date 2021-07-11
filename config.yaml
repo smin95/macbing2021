@@ -96,8 +96,8 @@ languages:
         - URL: products
           name: Products
           weight: 2
-        - URL: service
-          name: Service
+        - URL: blog
+          name: Blog
           weight: 3
         - URL: faq
           name: FAQ
