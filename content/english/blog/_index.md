@@ -7,5 +7,5 @@ menu:
     identifier: blog
     name: Blog
     weight: 4
-title: Reviews/Blogposts of Our Products
+title: Reviews/Blogposts
 ---
