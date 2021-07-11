@@ -75,7 +75,7 @@ params:
     - icon: ion-social-facebook-outline
       link: 'https://www.facebook.com/MACBINGOFFICIAL'
     - icon: ion-social-instagram-outline
-      link: 'https://instagram.com/macbing950?utm_medium=copy_link'
+      link: 'https://instagram.com/macbing_official?utm_medium=copy_link'
   widgets:
     sidebar:
       - recent_posts
