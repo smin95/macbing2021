@@ -3,7 +3,6 @@ bg_image: images/feature-bg3.jpg
 title: Macbing Store
 category: 
 - 이어폰
-- 넥밴드 
 description: 맥빙 제품 구매하기
 draft: false
 image: images/portfolio/store.jpg
