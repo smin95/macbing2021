@@ -8,6 +8,8 @@
       <div class="col-md-4 sticky-top">
         <h2>{{ .Title }}</h2>
         {{ with .Params.subtitle }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        <h3>{{ i18n "faq_toc_title" }}</h3>
+        {{ .TableOfContents }}
       </div>
       <div class="col-md-8">
         {{ .Content }}

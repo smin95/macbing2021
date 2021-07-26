@@ -3,7 +3,7 @@ bg_image: images/feature-bg.jpg
 description: 
 draft: false
 lastmod: 2021-07-23T00:00:00
-layout: faq
+layout: faq2
 menu:
   main: 
     name: 서비스 정책 
