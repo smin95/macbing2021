@@ -5,9 +5,9 @@ draft: false
 lastmod: 2021-07-23T00:00:00
 layout: faq
 menu:
-  main:
+  main: 
     name: Customer Service
-    parent: More
+    parent: 고객지원
     weight: 3
 subtitle: 고객지원업무시간 안내 - 평일 오전 10:00 ~ 오후 16:00 (중식시간 12:00 ~ 13:00)
 

@@ -31,7 +31,7 @@
             {{ $cats := .Params.category -}}
             {{ if not (reflect.IsSlice $cats) }}{{ $cats = slice ($cats) }}{{ end -}}
             {{ $cats = apply $cats "urlize" "." | jsonify -}}
-            <div class="col-md-4 portfolio-item shuffle-item" data-groups="{{ $cats }}">
+            <div class="col-md-6 portfolio-item shuffle-item" data-groups="{{ $cats }}">  
               {{ if isset .Params "image" -}}
               <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
               {{- end }}
@@ -40,7 +40,7 @@
                   {{ with .Params.image -}}
                   <a href="{{ . | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>
                   {{- end }}
-                  <a class="h3" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <a class="h2" href="{{ .RelPermalink }}">{{ .Title }}</a>
                   <p>{{ .Params.description }}</p>
                 </div>
               </div>

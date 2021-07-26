@@ -1,5 +1,5 @@
 baseURL: https://elegant-mccarthy-5e607c.netlify.app/
-title: 맥빙 | 블루투스 이어폰, 넥밴드
+title: 맥빙 | 블루투스 TWS 이어폰, 넥밴드
 theme: airspace-hugo
 paginate: '4'
 summaryLength: '30'
@@ -99,14 +99,11 @@ languages:
         - URL: blog
           name: Blog
           weight: 3
-        - URL: faq
-          name: FAQ
-          weight: 4
         - URL: contact
           name: Contact
           weight: 5
       main:
         - hasChildren: no
-          name: More
-          weight: 5
+          name: 고객지원
+          weight: 4
     weight: 1

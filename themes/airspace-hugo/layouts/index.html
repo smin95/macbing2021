@@ -58,7 +58,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
-        {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .title }}<h1 class="section-subtitle">{{ . | markdownify }}</h1>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}
         {{ if .enable }}
@@ -92,7 +92,7 @@
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
-        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
         {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
       </div>
     </div>

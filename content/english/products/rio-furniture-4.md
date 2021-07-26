@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg3.jpg
-category: 이어폰
+category: 넥밴드
 description: 블루투스 넥밴드 
 draft: false
 image: images/portfolio/mk900.jpg
