@@ -8,21 +8,22 @@ menu:
   main: 
     name: 사용자 메뉴얼
     parent: 고객지원
-    weight: 3
-subtitle:  "A/S 접수전 확인사항
-"
+    weight: 2
+subtitle: 
 
-title: 서비스 정책 
+title: 사용자 메뉴얼
 ---
+<div align="center">
 
-### MK900 사용자 메뉴얼
+### 1. MK900 사용자 메뉴얼
 
-[PDF파일 다운받기](www.macbing.net/MK900.pdf) 
+[PDF파일 다운받기](/MK900.pdf) 
 
-### MX700 사용자 메뉴얼
+### 2. MX700 사용자 메뉴얼
 
-[PDF파일 다운받기](www.macbing.net/MX700.pdf) 
+[PDF파일 다운받기](/MX700.pdf) 
 
-### MX730 사용자 메뉴얼
+### 3. MX730 사용자 메뉴얼
 
-[PDF파일 다운받기](www.macbing.net/MX730.pdf) 
+[PDF파일 다운받기](/MX730.pdf) 
+</div>

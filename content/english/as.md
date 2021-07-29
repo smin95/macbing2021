@@ -8,7 +8,7 @@ menu:
   main: 
     name: A/S 안내
     parent: 고객지원
-    weight: 3
+    weight: 1
 subtitle: "제품문의/주문/교환/반품문의. 
 
 
