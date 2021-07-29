@@ -1,51 +1,53 @@
 ---
 bg_image: images/feature-bg3.jpg
 category: 넥밴드 
-description: 블루투스 넥밴드 
+description:
 draft: false
 image: images/portfolio/mk950.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: MK950
+- info: MK950 (넥밴드형 스테레오이어폰)
+  label: 모델명 
+- info: 블랙, 화이트
+  label: 색상
+- info: 147mm x 174 mm x 12mm / 50g
+  label: 사이즈/무게 
+- info: CSR V5.0+EDR
+  label: 블루투스규격
+- info: HSP, HFP, A2DP, AVRCP
+  label: 블루투스프로파일
+- info: 10M
+  label: 수신가능거리
+- info: 2.4026GHz - 2.480GHz
+  label: 운용주파수
+- info: 2.5시간내외
+  label: 충천시간
+- info: 14시간내외
+  label: 통화시간 
+- info: 12시간내외
+  label: 음악재생시간 
+- info: 240시간내외
+  label: 대기시간 
+- info: USB to Micro 5Pin 충전식 
+  label: 충전방식 
+- info: MSIP-CRI-mb2-MK-950
+  label: KC인증
+- info: XU100690-16002B
+  label: 안전인증
+title: MK950 (넥밴드형 스테레오이어폰)
 ---
 
-## Behance Website Redesign
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+<p align="center">
+  <img src=/images/portfolio/B_1.jpg/>
+  <img src=/images/portfolio/B_2.jpg/>
+  <img src=/images/portfolio/B_3.jpg/>
+  <img src=/images/portfolio/B_4.jpg/>
+  <img src=/images/portfolio/B_5.jpg/>
+  <img src=/images/portfolio/B_6.jpg/>
+  <img src=/images/portfolio/B_7.jpg/>
+  <img src=/images/portfolio/B_8.jpg/>
+  <img src=/images/portfolio/B_9.jpg/>
+  <img src=/images/portfolio/B_10.jpg/>
+  <img src=/images/portfolio/B_11.jpg/>
+  <img src=/images/portfolio/B_12.jpg/>
+</p>
