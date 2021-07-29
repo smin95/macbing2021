@@ -1,55 +1,48 @@
 ---
-author: John Doe
-bg_image: images/feature-bg.jpg
+author: 담비
+bg_image: images/blog/bp4.1.jpg
 categories:
-- Legacy Support
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+- 
+date: "2019-08-30"
+description: 네이버 블로그 후기 포스트
 draft: false
-image: images/blog/blog-post-4.jpg
+image: images/blog/bp4.1.jpg
 tags:
-- Mechine
-- Retro
-title: How To Wear Bright Shoes
+- MX700
+- 맥빙MX700
+- 리뷰 
+- 가성비좋은
+- 솔직후기
+- 블루투스무선이어폰
+
+title: 맥빙 MX700  블루투스이어폰 솔직후기
 type: post
 ---
 
+출처: https://blog.naver.com/golper21/221633519650
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+안녕하세요~^^
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+제가 소개할 제품은 맥빙이라는 중소기업에서 만든 블루투스 무선이어폰 MX-700입니다.음~맥빙이라는기업도 있었나 하실텐데요.이미 무선이어폰업계에서 어느정도 이름값하는 회사인거같아요.저가 이어폰이라 처음엔 제품을 신뢰할수있을까? 했었는데요 제품을 받고는 그런생각은 싹~사라졌답니다
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+먼저 충전케이스를 말씀드리자면 음~타제품에 비하면 사이즈는 일단 작은거 같아요.좀  아담한 사이즈..^^
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+케이스에 이어폰을 살짝 올려 놓으면 자동으로 자리를 잡아줍니다~
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+![](/images/blog/bp4.2.jpg)
+
+무선이어폰에서 가장 중요한 부분이 페어링인데요.
+
+페어링은 타제품에 비해 정말 빠른거같아요~
+
+![](/images/blog/bp4.3.jpg)
+
+그리고 중요한 음질부분은 제가 공포영화를 좋아하는데요~고요하고 낮은 중저음의 소리가 영화속으로 더욱 빠져들게하는데요 이 이어폰은 그부분을 충분히 충족시켜 주는것같아요.한마디로 음질은  충분히  괞찮다고 생각합니다.저는 JBL제품을 오랫동안 사용했는데요 중저음은 이제품 좀 더 괞찮다고 느껴졌습니다.
+
+![](/images/blog/bp4.4.jpg)
+
+외관도 군더더기없이 깔끔합니다.^^~
+
+다만 아쉬운점이 있다면 색상이 블랙색상 하나뿐이라는것과 고무캡이 조금 고급스러웠다면 하는아쉬움이 있었습니다.그러나 분명 타사의 십만원초반대의 제품과 비교해도 전혀 손색없었습니다.
+
+이상 제돈주고 구입한 저의 솔직한 가성비좋은 이어폰 후기였습니다.

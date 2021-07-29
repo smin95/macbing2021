@@ -2,21 +2,19 @@
 author: 쓴종이
 bg_image: images/bp1.1.jpg
 categories:
-- Company News
 date: "2020-02-09"
 description: 네이버 블로그 후기 포스트
 draft: false
 image: images/blog/bp1.1.jpg
 tags:
 - MX730
-- 이어폰
+- 블루투스 이어폰
+- 무선 이어폰 
 title: 무선 블루투스 이어폰 추천 맥빙 MX 730 가성비 훌륭
 type: post
 ---
 
 출처: https://blog.naver.com/tmdwhdgml/221802529417. 
-
-Note: This post has been slightly modified from the original post above.  
 
 무선 전자기기 제품이 대세인 만큼, 블루투스 이어폰도 더욱 편리해진 사용감으로 그 수요가 급격히 늘었다. 에누리닷컴에서도 지난 1월 무선 이어폰 제품 매출이 139% 늘었다고 하니 요즘 지하철이나 길거리에서 무선이어폰만 보이는 것이 그 증표이겠다. 
 
