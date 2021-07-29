@@ -3,6 +3,7 @@ author:
 - 임물결
 bg_image: images/blog/bp2.3.jpg
 categories:
+- 네이버 블로그 포스트 
 date: "2020-02-22"
 description: 네이버 블로그 후기 포스트
 draft: false

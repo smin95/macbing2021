@@ -2,6 +2,7 @@
 author: best8220
 bg_image: images/blog/bp6.1.jpg
 categories:
+ - 네이버 블로그 포스트 
 date: "2018-12-14"
 description: 네이버 블로그 후기 포스트
 draft: false

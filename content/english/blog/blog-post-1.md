@@ -2,6 +2,7 @@
 author: 쓴종이
 bg_image: images/bp1.1.jpg
 categories:
+- 네이버 블로그 포스트 
 date: "2020-02-09"
 description: 네이버 블로그 후기 포스트
 draft: false

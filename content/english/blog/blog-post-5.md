@@ -2,6 +2,7 @@
 author: 제니어스
 bg_image: images/blog/bp5.5.jpg
 categories:
+ - 네이버 블로그 포스트 
 date: "2019-10-24"
 description: 네이버 블로그 후기 포스트 
 draft: false

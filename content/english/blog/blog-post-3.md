@@ -2,7 +2,7 @@
 author: 처음처럼
 bg_image: images/blog/bp3.1.jpg
 categories:
-- Legacy Support
+- 네이버 블로그 포스트 
 date: "2018-10-29"
 description: 네이버 블로그 후기 포스트
 draft: false
