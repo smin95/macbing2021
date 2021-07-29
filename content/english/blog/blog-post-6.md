@@ -1,57 +1,62 @@
 ---
-author: John Doe
-bg_image: images/feature-bg.jpg
+author: best8220
+bg_image: images/blog/bp6.1.jpg
 categories:
-- Company News
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+date: "2018-12-14"
+description: 네이버 블로그 후기 포스트
 draft: false
-image: images/blog/blog-post-6.jpg
+image: images/blog/bp6.1.jpg
 tags:
-- News
-- Retro
-- AI
-- Company
-title: How To Wear Bright Shoes
+- 블루투스 이어폰
+- 가성비블루투스이어폰
+- 이어폰추천
+- 맥빙
+- MACBING
+- 음석인식비서지원
+- MK950
+title: 맥빙 (MACBING) 착한가격 블루투스 이어폰 MK950 후기
 type: post
 ---
 
+출처: https://blog.naver.com/best8220/221419170918
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+안녕하세요~ 날씨가 점점 추워지네요...
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+운전하면서 줄달린 이어폰 쓰는게 불편해서 블루투스 이어폰을 검색하던 도중 맥빙 이쁜이 한테 꽂혀서 블루투스 이어폰을 구매하게 되었습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+일단 가격이 착하고 디자인도 수납형이라 가방에 넣고 호주머니에 넣고다녀도 전혀 불편하지 않습니다.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+그럼 맘에 드는 블루투스 이어폰을 소개해드릴까 합니다.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+바로 맥빙 MK 950 제품.
+
+디자인 심플하고 목에거는 촉감이 편해요~ 건듯 안건듯.
+
+![](/images/blog/bp6.2.jpg)
+
+특히 음질이 좋네요. 보통 블루투스 통화할때 '상대방이 잘 안들린다' 라는 말이 많잔아요~ 
+
+맥빙은 블루투스 통화에도 전혀눈치못챌 정도로 아주 잘들린대요 .블루투스 이어폰이라고 근데 왜이리 잘들려 ? 할 정도네요.
+
+순간 착한 가격에 이쁜이를 잘 건졌구나 라는 생각이 들더라구요.
+
+색상은 블랙 화이트 두가지예요.
+
+하얀패딩 있는 분들은 흰색 추천하고 싶네요.
+
+![](/images/blog/bp6.3.jpg)
+
+자동줄감기 기능이 있어서 줄정리가 아주 편해요.
+
+![](/images/blog/bp6.4.jpg)
+
+한가지 개성이 있다면 원터치 시리 빅스비 기능 있다는거 .
+운전할때나 마트장볼때 집정리할때 버트하나로 모든걸 해결하게 되여 정말 편해요.
+
+풀 충전은 2~3시간으로 통화 12시간 넘어 가능하다고 하네요.
+
+물건 받자마자 친구랑 8시간 통화했어도 배터리 부족이 안뜨더라구요.
+
+우리 같이 맥빙MK950으로 따뜻한 겨울 보냅시다~
+
+

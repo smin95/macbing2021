@@ -1,55 +1,70 @@
 ---
-author: Mark Dinn
-bg_image: images/feature-bg.jpg
+author: 제니어스
+bg_image: images/blog/bp5.5.jpg
 categories:
-- Artificial Intelligence
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+date: "2019-10-24"
+description: 네이버 블로그 후기 포스트 
 draft: false
-image: images/blog/blog-post-5.jpg
+image: images/blog/bp5.1.JPG
 tags:
-- Advice
-- AI
-title: How To Wear Bright Shoes
+- 비트팟
+- MX730이어폰
+- 블루투스무선이어폰
+- 솔직리뷰 
+title: 비트팟 (MX700) 후기
 type: post
 ---
 
+출처: https://blog.naver.com/5viwu7y2pap/221687437142. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+앞전에 쓰던 QCY 화이트가 2달만에 충전이 됐다 안됐다 하는
+상황이 발생하여 가성비 좋은걸로 유명한 비트팟이라는 녀석을 사 보았다.
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+일단 외관은 굉장히 심플.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+단순히 이쁘냐 안이쁘냐를 논하면 후자의 쪽에 속하는 일이 많겠지만 눈에 띄지않는걸 좋아하는 나로써는 만족스럽다.
+
+![](/images/blog/bp5.2.JPG)
+
+바닥부분에는 간단한 정보들이 대략적으로 적혀있는것을 볼 수 있고 몇가지 인증마크가 들어있는데 나는 그런거 잘 모르니 그냥 패스...
+
+
+뒷면에 작은 LED 구멍이 있는데 비트팟이 충전중일떄는 파란색 케이스가 충전중일때는 빨간색 뜬다.
+
+
+단순한 구분법.
+
+![](/images/blog/bp5.3.JPG)
+
+같이 딸려오는 기본 구성품.
+
+교체 가능한 여분의 이어팁과 충전 선을 함께 보내준다.
+
+비트팟의 경우 초기 이어팁이 약간 작은 느낌이 있어서 (내가 귓구멍이 큰가) 오른쪽에 있는 큼지막한 녀석을 쓰면 소리가 완전 차단돼서 소리안에 갇힌듯이 생생하게 들을 수 있다.
+
+나는 바꿔서 쓰고있음.
+
+![](/images/blog/bp5.4.JPG)
+
+초기 등록법은 걱정했던것보다 간단하다.
+
+뒷면에 스티커를 떼고 양쪽 다 케이스에서 빼 낸다음에 핸드폰에 터치 몇번만 하면 끝.
+
+만약 초기 페어링이 잘 되지않는다면 그냥 초기화 하면 깨끗하게 된다 나는 그냥 바로 돼서 썻음.
+
+잘됨.
+
+소리품질은 소문대로 귀에 열렬하게 때려박히며 고막을 자극한다.
+
+QCY에 비해서 1.2~1.3배 정도 음량이 더 클뿐아니라 (사실 QCY가 배터리 아낄라고 작은듯) 소리 뭉개짐이나 영상에서 싱크가 맞지 않는등의 문제도 없다.
+
+QCY가 2달만에 정상사용에 불편함을 겪었으니 얘는 4달만 버텨도 본전 뽑을 수 있을듯.
+
+여담이지만 비트팟 품절 기간이 길어서 오래 기다리고 난 후 받은터라 (거의 2주정도였나) 쫌만 마음에 안들어도 바로 반품 할려 했는데 다행히 그런거 없다.
+
+
+만족.
+
+행복.
