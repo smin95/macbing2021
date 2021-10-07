@@ -1,2 +1,2 @@
 User-agent: *Allow:/
-Sitemap: https://macbing.net/sitemap.xml
+Sitemap: https://www.macbing.net/sitemap.xml
