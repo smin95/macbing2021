@@ -22,7 +22,7 @@ banner:
     link: products
   content:  압도적인 가격대비 성능,폭발적 프리미엄 사운드. 노이즈캔슬링, <br/> 뛰어난 휴대성, 꺼내는 순간 자동 블루투스 연결/페어링, 양쪽 스테리어 통화 가능.
   enable: true
-  title: 맥빙 | 블루투스 무선이어폰<br/> & 넥밴드
+  title: 맥빙 | 블루투스 무선이어폰 <br/> & 커널형 넥밴드
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
